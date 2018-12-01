@@ -1,0 +1,2 @@
+# ios_NullSafe
+适用于ios项目UILabel,UIButton,NSURL等赋值操作时出现空值时崩溃问题的解决
